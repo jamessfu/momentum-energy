@@ -1,0 +1,274 @@
+{
+  "users": [
+    {
+      "_id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "role": "admin",
+      "last_password_change": "2023-10-15",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "role": "electrical engineer",
+      "last_password_change": "2023-09-28",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "3",
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "role": "technician",
+      "last_password_change": "2023-11-05",
+      "activity_status": "Offline",
+      "last_active": "2 hours ago"
+    },
+    {
+      "_id": "4",
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "role": "admin",
+      "last_password_change": "2023-10-30",
+      "activity_status": "Offline",
+      "last_active": "6 hours ago"
+    },
+    {
+      "_id": "5",
+      "name": "Sophia Wilson",
+      "email": "sophia.wilson@example.com",
+      "role": "technician",
+      "last_password_change": "2023-11-18",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "6",
+      "name": "Emily Johnson",
+      "email": "emily.johnson@example.com",
+      "role": "engineer",
+      "last_password_change": "2023-12-10",
+      "activity_status": "Offline",
+      "last_active": "10 hours ago"
+    },
+    {
+      "_id": "7",
+      "name": "Robert Smith",
+      "email": "robert.smith@example.com",
+      "role": "manager",
+      "last_password_change": "2023-12-15",
+      "activity_status": "Offline",
+      "last_active": "1 day ago"
+    },
+    {
+      "_id": "8",
+      "name": "Daniel Brown",
+      "email": "daniel.brown@example.com",
+      "role": "technician",
+      "last_password_change": "2023-12-20",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "9",
+      "name": "Olivia Wilson",
+      "email": "olivia.wilson@example.com",
+      "role": "engineer",
+      "last_password_change": "2023-12-25",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "10",
+      "name": "William Smith",
+      "email": "william.smith@example.com",
+      "role": "admin",
+      "last_password_change": "2023-12-30",
+      "activity_status": "Offline",
+      "last_active": "3 hours ago"
+    },
+    {
+      "_id": "11",
+      "name": "Emma Johnson",
+      "email": "emma.johnson@example.com",
+      "role": "manager",
+      "last_password_change": "2024-01-05",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "12",
+      "name": "Noah Brown",
+      "email": "noah.brown@example.com",
+      "role": "technician",
+      "last_password_change": "2024-01-10",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "13",
+      "name": "Liam Wilson",
+      "email": "liam.wilson@example.com",
+      "role": "engineer",
+      "last_password_change": "2024-01-15",
+      "activity_status": "Offline",
+      "last_active": "5 hours ago"
+    },
+    {
+      "_id": "14",
+      "name": "Ava Johnson",
+      "email": "ava.johnson@example.com",
+      "role": "manager",
+      "last_password_change": "2024-01-20",
+      "activity_status": "Offline",
+      "last_active": "1 day ago"
+    },
+    {
+      "_id": "15",
+      "name": "Ethan Davis",
+      "email": "ethan.davis@example.com",
+      "role": "technician",
+      "last_password_change": "2024-01-25",
+      "activity_status": "Offline",
+      "last_active": "2 days ago"
+    },
+    {
+      "_id": "16",
+      "name": "Mia Garcia",
+      "email": "mia.garcia@example.com",
+      "role": "engineer",
+      "last_password_change": "2024-01-30",
+      "activity_status": "Offline",
+      "last_active": "1 week ago"
+    },
+    {
+      "_id": "17",
+      "name": "James Martinez",
+      "email": "james.martinez@example.com",
+      "role": "admin",
+      "last_password_change": "2024-02-05",
+      "activity_status": "Offline",
+      "last_active": "2 weeks ago"
+    },
+    {
+      "_id": "18",
+      "name": "Charlotte Hernandez",
+      "email": "charlotte.hernandez@example.com",
+      "role": "technician",
+      "last_password_change": "2024-02-10",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "19",
+      "name": "Amelia Smith",
+      "email": "amelia.smith@example.com",
+      "role": "manager",
+      "last_password_change": "2024-02-15",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "20",
+      "name": "Benjamin Wilson",
+      "email": "benjamin.wilson@example.com",
+      "role": "engineer",
+      "last_password_change": "2024-02-20",
+      "activity_status": "Offline",
+      "last_active": "2 hours ago"
+    },
+    {
+      "_id": "21",
+      "name": "Evelyn Johnson",
+      "email": "evelyn.johnson@example.com",
+      "role": "admin",
+      "last_password_change": "2024-02-25",
+      "activity_status": "Offline",
+      "last_active": "5 hours ago"
+    },
+    {
+      "_id": "22",
+      "name": "Alexander Brown",
+      "email": "alexander.brown@example.com",
+      "role": "technician",
+      "last_password_change": "2024-03-01",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "23",
+      "name": "Harper Wilson",
+      "email": "harper.wilson@example.com",
+      "role": "manager",
+      "last_password_change": "2024-03-06",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "24",
+      "name": "Ethan Johnson",
+      "email": "ethan.johnson@example.com",
+      "role": "engineer",
+      "last_password_change": "2024-03-11",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "25",
+      "name": "Charlotte Brown",
+      "email": "charlotte.brown@example.com",
+      "role": "technician",
+      "last_password_change": "2024-03-16",
+      "activity_status": "Offline",
+      "last_active": "6 hours ago"
+    },
+    {
+      "_id": "26",
+      "name": "Daniel Wilson",
+      "email": "daniel.wilson@example.com",
+      "role": "admin",
+      "last_password_change": "2024-03-21",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "27",
+      "name": "Olivia Johnson",
+      "email": "olivia.johnson@example.com",
+      "role": "manager",
+      "last_password_change": "2024-03-26",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "28",
+      "name": "Logan Brown",
+      "email": "logan.brown@example.com",
+      "role": "technician",
+      "last_password_change": "2024-04-01",
+      "activity_status": "Offline",
+      "last_active": "8 hours ago"
+    },
+    {
+      "_id": "29",
+      "name": "Amelia Johnson",
+      "email": "amelia.johnson@example.com",
+      "role": "engineer",
+      "last_password_change": "2024-04-06",
+      "activity_status": "Online",
+      "last_active": "now"
+    },
+    {
+      "_id": "30",
+      "name": "Lucas Wilson",
+      "email": "lucas.wilson@example.com",
+      "role": "admin",
+      "last_password_change": "2024-04-11",
+      "activity_status": "Offline",
+      "last_active": "5 hours ago"
+    }
+  ]
+}

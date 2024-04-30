@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-family: "Source Serif Pro Usage", serif;
+}
+
+/* h1 {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 1.25rem;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 1.125rem;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 1.02rem;
+}
+
+p {
+    font-size: 1rem;
+} */
